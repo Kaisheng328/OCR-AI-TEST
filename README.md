@@ -22,7 +22,7 @@ OCR AI Cloud Service is a cloud-based application designed to extract text from 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Kaisheng328/Smart-OCR-and-AI-Text-Processing-Service.git]
+   git clone https://github.com/Kaisheng328/Smart-OCR-and-AI-Text-Processing-Service.git
    cd Smart-OCR-and-AI-Text-Processing-Service
    
 ## Additional Usage Examples
