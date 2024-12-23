@@ -16,8 +16,7 @@ OCR AI Cloud Service is a cloud-based application designed to extract text from 
 - **Frontend:** Vue.js with TypeScript
 - **Cloud Services:** Google Cloud Functions
 - **AI Integration:** ChatGPT and Ollama AI
-- **Deployment:** Railway and Google Cloud Run
-- **Frontend Framework:** DaisyUI for user-friendly interfaces
+- **Deployment:** Google Cloud Run
 
 ## Installation
 
